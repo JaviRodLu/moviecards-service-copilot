@@ -59,7 +59,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'moviecards-service-hilera'
+          app-name: 'moviecards-service-tfmcopilot'
           slot-name: 'Production'
           package: '*.jar'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6596BD1512B473288B21A6B66A8FBBC }}
