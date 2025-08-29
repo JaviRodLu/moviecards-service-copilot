@@ -2,6 +2,8 @@
 - Creación de actores (POST): https://moviecards-service-tfmcopilot.azurewebsites.net/actors
   
 {
+  
+  {
 
     "id": "",
 
@@ -12,6 +14,8 @@
     "country": "",
 
     "movies": []
+
+  }
 
 }
  
