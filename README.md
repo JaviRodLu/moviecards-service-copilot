@@ -1,7 +1,7 @@
 [ES] Prueba el servicio utilizando Postman:
 - Creación de actores (POST): https://moviecards-service-tfmcopilot.azurewebsites.net/actors
   
-  {
+{
 
     "id": "",
 
@@ -13,12 +13,12 @@
 
     "movies": []
 
-  }
+}
  
 - Listado de actores (GET): https://moviecards-service-tfmcopilot.azurewebsites.net/actors
 
-- Creación de películas (POST): https://moviecards-service-tfmcopilot.azurewebsites.net
-/movies
+- Creación de películas (POST): https://moviecards-service-tfmcopilot.azurewebsites.net/movies
+
 {
 
     "id": "",
@@ -48,7 +48,8 @@
 
 [EN] Test the service using Postman:
 - Actor creation (POST): https://moviecards-service-tfmcopilot.azurewebsites.net/actors
-  {
+
+{
 
     "id": "",
 
@@ -60,12 +61,12 @@
 
     "movies": []
 
-  }
+}
  
 - Actor list (GET): https://moviecards-service-tfmcopilot.azurewebsites.net/actors
 
-- Movie creation (POST): https://moviecards-service-tfmcopilot.azurewebsites.net
-/movies
+- Movie creation (POST): https://moviecards-service-tfmcopilot.azurewebsites.net/movies
+
 {
 
     "id": "",
